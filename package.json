@@ -1,0 +1,17 @@
+{
+  "name": "baseMaterial",
+  "version": "1.0.0",
+  "description": "Base con angular material",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Claudio Zurita",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angular-animate": "^1.5.7",
+    "angular-aria": "^1.5.7",
+    "angular-material": "^1.0.9"
+  }
+}
